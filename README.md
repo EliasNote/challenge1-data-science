@@ -44,8 +44,6 @@ challenge1-data-science/
 - 🟪 **Heatmap** das vendas por categoria de produto por loja
 - 📈 **Gráfico de linha** do frete médio por loja
 
-<img src="https://user-images.githubusercontent.com/6748242/235352839-2e2e7e7e-2e7e-4e7e-8e7e-2e7e7e7e7e7e.png" alt="Exemplo de gráfico de barras" width="400"/>
-
 ---
 
 ## ⚙️ Como executar
